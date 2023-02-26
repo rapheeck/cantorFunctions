@@ -21,7 +21,3 @@
 
     init();
 }
-
-// formElement.addEventListener("input", onChange);
-
-// resetAmount.addEventListener("click", resetAmount);
