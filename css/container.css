@@ -1,0 +1,8 @@
+.container {
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 0 20px;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    background-image: url("../images/dollars.png");
+}

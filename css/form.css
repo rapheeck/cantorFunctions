@@ -1,0 +1,44 @@
+
+.form__labelText {
+    max-width: 350px;
+    width: 100%;
+    display: inline-block;
+    margin-right: 5px;
+    font-weight: 700;
+    color:black;
+}
+
+.form__field {
+    border: 1px solid #ccc;
+    padding: 5px;
+    max-width: 200px;
+    width: 100%;
+}
+
+.form__button {
+    width: 100%;
+    border: none;
+    background-color: coral;
+    color: antiquewhite;
+    padding: 5px;
+}
+
+.form__button:hover {
+    background-color: chocolate;
+}
+
+.form__button:active {
+    background-color: crimson;
+}
+
+.form__fieldset {
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 10px 0;
+}
+
+.form__legend {
+    background-color: coral;
+    color: antiquewhite;
+    padding: 5px;
+}
