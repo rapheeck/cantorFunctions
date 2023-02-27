@@ -2,7 +2,7 @@
 
 ## Demo
 
-[https://rapheeck.github.io/cantor/](https://rapheeck.github.io/cantorFunctions/)
+https://rapheeck.github.io/cantorFunctions/
 
 ## Description
 
