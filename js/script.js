@@ -1,6 +1,6 @@
 {
     const resetAmount = () => {
-        resetAmount = document.querySelector(".js-reset");
+        const currencyAmount = document.querySelector(".js-amount");
         currencyAmount.innerText = 0.00;
     };
 
@@ -9,14 +9,15 @@
         const exchangeRate = document.querySelector(".js-rate");
         const currencyAmount = document.querySelector(".js-amount");
         const zlotyAmount = +currencyValue.value * +exchangeRate.value;
-        return currencyAmount === zlotyAmount.toFixed(2);
+        currencyAmount.innerText = zlotyAmount.toFixed(2)
+        return zlotyAmount;
     };
 
     const init = () => {
         const formElement = document.querySelector(".js-form");
-        const resetAmount = document.querySelector('.js-reset');
+        const resetFinish = document.querySelector('.js-reset');
         formElement.addEventListener("input", onChange);
-        resetAmount.addEventListener("click", resetAmount);
+        resetFinish.addEventListener("click", resetAmount);
     };
 
     init();
