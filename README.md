@@ -15,3 +15,4 @@ If you want to delete the data - press the "Zresetuj Dane" button.
 
 ## Screenshot
 
+![screenshot](https://raw.githubusercontent.com/rapheeck/cantorFunctions/main/images/Zrzut%20ekranu%20(10).png)
