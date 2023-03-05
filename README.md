@@ -12,3 +12,6 @@ Arrow functions were used.
 ## Instruction
 
 If you want to delete the data - press the "Zresetuj Dane" button.
+
+## Screenshot
+
