@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url(/images/calc.jpg);
+    background-image: url("https://raw.githubusercontent.com/rapheeck/cantorFunctions/main/images/calc.jpg");
     background-size: cover;
     background-position: center;
 }
